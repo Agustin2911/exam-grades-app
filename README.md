@@ -1,6 +1,6 @@
 # exam-grades-app
 <h1>!hi , here you will find a small app for exam grades</h1>
-<p>this app was design in python with customtkinter, for the gui,and mysql.connector for the database</p>
+<p>this app was design in python with customtkinter, for the gui,and mysql.connector for the database. This one hosted in cleve cloud</p>
 <h2>Features</h2>
 <ol>
   <li>add new students</li>
